@@ -9,9 +9,6 @@ namespace BuscarCep.Domain.AutoMapper
             return new MapperConfiguration(configuration =>
             {
                 configuration.AddProfile(new DtoToViewModel());
-                //configuration.AddProfile(new CommandToDto());
-                //configuration.AddProfile(new EntityToViewlModel());
-                //configuration.AddProfile(new EntityToDto());
             });
         }
     }

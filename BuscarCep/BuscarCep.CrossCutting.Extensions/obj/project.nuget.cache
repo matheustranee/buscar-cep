@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWGIgI7iPoGZlpY0tyrYubyqlwpGZ8+VVVegG1qvU94xU++qvt3no1xtdsMCM3tKJe7nsp0v4nHvJeUDt6iNuw==",
+  "dgSpecHash": "kUs27+oDoPgY+ASk6o7+LSO8PUAaLGSUw1Xf1IDYBE5f3r6/RpV/5J2qLtCnbL+0+2F68IeTwgs6cH13tUDNIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"

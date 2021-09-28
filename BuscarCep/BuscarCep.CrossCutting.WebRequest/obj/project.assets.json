@@ -587,11 +587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
       "projectName": "BuscarCep.CrossCutting.WebRequest",
-      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
+      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -612,11 +612,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj"
             },
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
             }
           }
         }

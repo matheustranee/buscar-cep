@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7o6YKng0m9NzYI51qpVS6PRmuNzXoqoDLqs+foP1xS4zhK7Y7gBncENxj867zoDz4xt18esOp0efO+KFLTSDg==",
+  "dgSpecHash": "CYAOcs8OU+Yc1Gg8nRdhiw1wd2X2Z8CFH4MbT2KZDyGo6OXN0jO6Ib2E+FUvnNyrkihidwroOzuo88DWH3hsGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\flunt\\2.0.0\\flunt.2.0.0.nupkg.sha512",

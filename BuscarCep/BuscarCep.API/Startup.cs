@@ -13,7 +13,6 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using System;
 using System.Collections.Generic;
-using System.Xml;
 
 namespace BuscarCep.API
 {
@@ -25,8 +24,7 @@ namespace BuscarCep.API
         }
 
         public IConfiguration Configuration { get; }
-
-        // This method gets called by the runtime. Use this method to add services to the container.
+        
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
@@ -64,8 +62,7 @@ namespace BuscarCep.API
             AddHttpClientsFromAppsettings(services);
 
         }
-
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
@@ -74,7 +71,6 @@ namespace BuscarCep.API
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "BuscarCep.API v1"));
             }
-
 
             app.UseHttpsRedirection();
 

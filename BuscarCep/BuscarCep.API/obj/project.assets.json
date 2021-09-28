@@ -3724,11 +3724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
       "projectName": "BuscarCep.API",
-      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
+      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.API\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -3749,11 +3749,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
             },
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj"
             }
           }
         }

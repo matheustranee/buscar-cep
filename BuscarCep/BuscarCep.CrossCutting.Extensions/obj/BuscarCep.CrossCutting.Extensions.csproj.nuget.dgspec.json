@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {}
+    "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {
+    "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
         "projectName": "BuscarCep.CrossCutting.Extensions",
-        "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
+        "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\BuscarCep.CrossCutting.Extensions.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

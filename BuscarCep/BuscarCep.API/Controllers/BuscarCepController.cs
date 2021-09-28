@@ -25,7 +25,8 @@ namespace BuscarCep.API.Controllers
         /// </summary>
         [HttpGet("buscar-cep")]
         [ProducesResponseType(typeof(ResponseViewModel<CepViewModel>), StatusCodes.Status200OK)]
-        public async Task<IActionResult> GetCep([FromServices] IViaCepFacade viacepFacade, [FromQuery] int cep)
+        public async Task<IActionResult> GetCep([FromServices] IViaCepFacade viacepFacade, 
+                                                [FromQuery] int cep)
         {
             IResult<CepDTO> cepDTO =
                 await viacepFacade.GetCep(cep);

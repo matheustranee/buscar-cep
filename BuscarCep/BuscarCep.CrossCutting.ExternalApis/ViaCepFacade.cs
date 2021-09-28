@@ -24,6 +24,9 @@ namespace BuscarCep.CrossCutting.ExternalApis
 
         public async Task<IResult<CepDTO>> GetCep(int cep)
         {
+            if (cep.ToString().Length != 8)
+                return Error<CepDTO>(Notifications, $"Invalid CEP");
+
             Request request =
                 RequestBuilder.Create(CLIENT, HttpMethod.Get, cep.ToString() + "/json")
                               .Build();
@@ -39,7 +42,7 @@ namespace BuscarCep.CrossCutting.ExternalApis
                 return Success(cepDto);
             }
             else
-            {                
+            {
                 return Error<CepDTO>(Notifications, $"Error on client {CLIENT.GetDescription()}");
             }
         }

@@ -3571,11 +3571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj",
       "projectName": "BuscarCep.Infra.Configurations",
-      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj",
+      "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Infra.Configurations\\BuscarCep.Infra.Configurations.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Infra.Configurations\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Infra.Configurations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -3596,14 +3596,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.ExternalApis\\BuscarCep.CrossCutting.ExternalApis.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.ExternalApis\\BuscarCep.CrossCutting.ExternalApis.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.ExternalApis\\BuscarCep.CrossCutting.ExternalApis.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.ExternalApis\\BuscarCep.CrossCutting.ExternalApis.csproj"
             },
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.CrossCutting.WebRequest\\BuscarCep.CrossCutting.WebRequest.csproj"
             },
-            "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
-              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
+            "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj": {
+              "projectPath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj"
             }
           }
         }

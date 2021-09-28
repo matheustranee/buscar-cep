@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jhYI671lxJi6cu8vEQhX8kawt93FbZHlK0Y/h80R9insg1pol8XpYAsKUVxr32Zt2/a9fI6WOkoXacOyg5dSOA==",
+  "dgSpecHash": "rqI8b15agNlK6X0po11EBuXFsWXsMM/V+EzpycnJO/Qj6ZIc7KXLOs7g58p5VoKWVh0h48nvoS+hdg4u0EzFuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.Domain\\BuscarCep.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\flunt\\2.0.0\\flunt.2.0.0.nupkg.sha512",

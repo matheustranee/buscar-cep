@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rwyurzJKOjLuZ5UpfJ1QU5cFTHxzDU3vLsPGSYHI9HwI0WarSdMIV+NEmZY5m1+IZFeU8HpH+TdFdNRBmsUD6w==",
+  "dgSpecHash": "sxXolHGWXAwCBraHHWE03k+gqHIfPJ7k2JLkuXUPkZpgVyAc9weBThKf4kLgyXPeRoGDfzn3qxmvtutg6sJRFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\BuscarCep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\Desktop\\Projetos\\buscar-cep\\BuscarCep\\BuscarCep.API\\BuscarCep.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
