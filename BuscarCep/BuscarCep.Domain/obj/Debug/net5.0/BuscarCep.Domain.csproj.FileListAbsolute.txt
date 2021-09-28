@@ -1,0 +1,15 @@
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\BuscarCep.Domain.deps.json
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\BuscarCep.Domain.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\ref\BuscarCep.Domain.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\BuscarCep.Domain.pdb
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\BuscarCep.CrossCutting.Extensions.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\bin\Debug\net5.0\BuscarCep.CrossCutting.Extensions.pdb
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.csproj.CopyComplete
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\ref\BuscarCep.Domain.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.Domain\obj\Debug\net5.0\BuscarCep.Domain.pdb

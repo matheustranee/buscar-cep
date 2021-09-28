@@ -1,0 +1,11 @@
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\bin\Debug\net5.0\BuscarCep.CrossCutting.Extensions.deps.json
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\bin\Debug\net5.0\BuscarCep.CrossCutting.Extensions.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\bin\Debug\net5.0\ref\BuscarCep.CrossCutting.Extensions.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\bin\Debug\net5.0\BuscarCep.CrossCutting.Extensions.pdb
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\ref\BuscarCep.CrossCutting.Extensions.dll
+C:\Users\mathe\Desktop\Projetos\BuscarCep\BuscarCep\BuscarCep.CrossCutting.Extensions\obj\Debug\net5.0\BuscarCep.CrossCutting.Extensions.pdb
