@@ -24,7 +24,7 @@ namespace BuscarCep.CrossCutting.ExternalApis
 
         public async Task<IResult<CepDTO>> GetCep(int cep)
         {
-            if (cep.ToString().Length != 8)
+            if (cep.ToString().IsValidCep())
                 return Error<CepDTO>(Notifications, $"Invalid CEP");
 
             Request request =

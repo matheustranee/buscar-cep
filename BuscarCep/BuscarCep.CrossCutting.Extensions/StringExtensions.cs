@@ -7,9 +7,9 @@
             return string.IsNullOrEmpty(str);
         }
 
-        public static string Format(this string str, params object[] parameters)
+        public static bool IsValidCep(this string cep)
         {
-            return string.Format(str, parameters);
+            return (cep.ToString().Length != 8) ? true : false;
         }        
     }
 }
